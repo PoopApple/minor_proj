@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/PoopApple/minor_proj/issues"
   },
-  "homepage": "https://github.com/PoopApple/minor_proj#readme"
+  "homepage": "https://github.com/PoopApple/minor_proj#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
